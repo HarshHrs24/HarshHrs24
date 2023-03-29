@@ -26,7 +26,5 @@
 
 ---
 <p align="center">
-<img src="https://github.com/HarshHrs24/HarshHrs24/blob/output/github-contribution-grid-snake.svg">
+<img src="https://github.com/HarshHrs24/SnakeSVG/blob/main/snake.svg">
 </p>
-
-[![](https://visitcount.itsvg.in/api?id=VishwaGauravIn&pretty=true)](https://visitcount.itsvg.in)
