@@ -58,7 +58,7 @@
 <img src="https://github.com/adityamangal1/adityamangal1/blob/output/github-contribution-grid-snake.svg">
 </h3>
 <h1 align="center">📈 My Stats</h1>
-<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=shivansh1203&show_icons=true&locale=en" alt="HarshHrs24" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=HarshHrs24&show_icons=true&locale=en" alt="HarshHrs24" /></p>
 
  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HarshHrs24&" alt="HarshHrs24" /></p>
  
