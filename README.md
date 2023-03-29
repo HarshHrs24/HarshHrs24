@@ -1,3 +1,5 @@
+<p align="center"><img src="https://github.com/HarshHrs24/HarshHrs24/blob/main/HrsBaanner.jpeg" alt="Logo" width="800" height="350"></p>
+
 <h1 align="center"> Hi 👋🏻, I'm Harsh Soni </br> 
 </h1>
 <p align="center">I love creating new things ⚡</p>
@@ -21,6 +23,10 @@
 
 ## Current GitHub Stats 📊
 [![Harsh Soni's GitHub stats](https://github-readme-stats.vercel.app/api?username=HarshHrs24&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+![Harsh Soni's Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=HarshHrs24&custom_title=Harsh's%20GitHub%20Activity%20Graph&bg_color=black&color=0079fa&line=2100fa&point=0079fa&area=true&hide_border=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshHrs24&langs_count=8)](https://github.com/HarshHrs24/github-readme-stats)
 
 ### Thanks for Visiting my GitHub Profile!
 
