@@ -22,11 +22,11 @@
 
 
 ## Current GitHub Stats 📊
-<h1 align="center">📈 My Stats</h1>
 <p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=HarshHrs24&show_icons=true&locale=en" alt="HarshHrs24" /></p>
 
  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HarshHrs24&" alt="HarshHrs24" /></p>
  
+<p><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=HarshHrs24&show_icons=true&locale=en&layout=compact" alt="HarshHrs24" /></p>
 
 
 ![Harsh Soni's Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=HarshHrs24&custom_title=Harsh's%20GitHub%20Activity%20Graph&bg_color=black&color=0079fa&line=2100fa&point=0079fa&area=true&hide_border=true)
