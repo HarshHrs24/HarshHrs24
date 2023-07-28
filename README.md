@@ -22,14 +22,9 @@
 
 
 ## Current GitHub Stats 📊
-<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=HarshHrs24&show_icons=true&locale=en" alt="HarshHrs24" /></p>
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=HarshHrs24\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/HarshHrs24/github-readme-stats#responsive-card-theme#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=HarshHrs24\&show_icons=true\&theme=default#gh-light-mode-only)](https://github.com/HarshHrs24/github-readme-stats#responsive-card-theme#gh-light-mode-only)
 
- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HarshHrs24&" alt="HarshHrs24" /></p>
- 
-<p><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=HarshHrs24&show_icons=true&locale=en&layout=compact" alt="HarshHrs24" /></p>
-
-
-![Harsh Soni's Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=HarshHrs24&custom_title=Harsh's%20GitHub%20Activity%20Graph&bg_color=black&color=0079fa&line=2100fa&point=0079fa&area=true&hide_border=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshHrs24&langs_count=8)](https://github.com/HarshHrs24/github-readme-stats)
 
