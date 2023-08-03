@@ -30,7 +30,3 @@
 
 ### Thanks for Visiting my GitHub Profile!
 
----
-<p align="center">
-<img src="https://github.com/HarshHrs24/SnakeSVG/blob/main/snake.svg">
-</p>
